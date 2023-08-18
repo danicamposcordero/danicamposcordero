@@ -1,15 +1,13 @@
 <h1 align="center">Hola 👋, mi nombre es Daniela Iliana Campos Cordero</h1>
 <h3 align="center">Programadora de Aplicaciones Multiplataforma</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [ danicamposcordero.com](danicamposcordero.com)
-
-- 💬 Pregúntame sobre **html, css, java, kotlin**
+- 💬 Pregúntame sobre **html, css, java , kotlin**
 
 - 📫 Cómo contactarme **daniyal.12td@gmail.com**
 
-<h3 align="left"> Conéctate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danicamposcordero" target="blank"><img align="center" src="https ://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danicamposcordero" height="30" width="40" /></a>
+<a href=" https://linkedin.com/in/danicamposcordero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/ src/images/icons/Social/linked-in-alt.svg" alt="danicamposcordero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
