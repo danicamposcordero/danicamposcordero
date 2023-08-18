@@ -5,7 +5,7 @@
 
 - 💬 Pregúntame sobre **html, css, java, kotlin**
 
-- 📫 Cómo contactarme **daaniyal.12td@gmail.com**
+- 📫 Cómo contactarme **daniyal.12td@gmail.com**
 
 <h3 align="left"> Conéctate conmigo:</h3>
 <p align="left">
